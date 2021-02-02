@@ -1,0 +1,10 @@
+Front End - gui NetBeans
+Back End - Java
+
+NetBeans IDE 8.2 usada,
+
+Foi utilizado a biblioteca para conexão: mysql-connector-java-5.1.49-bin
+
+Alterar usuario e senha da classe: ConnectionFactory.java
+
+
